@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o Carlos Eduardo 🖐️
-  - Estudando C e Javascript
+  - Estudando C, Javascript e JAVA
   - Estou sendo formado em Ciência da Computação
   - Inglês Básico
 
@@ -12,6 +12,7 @@
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/java-original.svg">
 </div>
 
 ##
