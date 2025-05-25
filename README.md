@@ -11,8 +11,10 @@
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div> <br>
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight) <br>
+</div>
+<br>
+
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo18&layout=donut)](https://github.com/Carlos-Eduardo18/github-readme-stats)
 
 ##
