@@ -14,7 +14,7 @@
 </div>
 <br>
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight) <br>
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo18&layout=donut)](https://github.com/Carlos-Eduardo18/github-readme-stats)
 
 ##
