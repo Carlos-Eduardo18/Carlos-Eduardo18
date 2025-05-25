@@ -26,4 +26,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/c4rlcmconnect4)
 
 ### Meus grandes projetos:
-[![Melhores projetos](https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Eduardo18&repo=github-readme-stats)](https://github.com/Carlos-Eduardo18/Projeto-Pessoal)
+[![Melhores projetos](https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Eduardo18)](https://github.com/Carlos-Eduardo18/Projeto-Pessoal)
