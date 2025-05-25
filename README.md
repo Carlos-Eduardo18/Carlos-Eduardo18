@@ -25,5 +25,5 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@carlosconnection)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/c4rlcmconnect4)
 
-### Meus grandes projetos:
-[![Melhores projetos](https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Eduardo18)](https://github.com/Carlos-Eduardo18/Projeto-Pessoal)
+## Meus Grandes Projetos:
+https://github.com/Carlos-Eduardo18/Projeto-Pessoal
